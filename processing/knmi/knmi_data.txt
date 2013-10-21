@@ -1,0 +1,19 @@
+# BRON:
+# KONINKLIJK NEDERLANDS METEOROLOGISCH INSTITUUT (KNMI)
+# 
+# STN      LON(east)   LAT(north)     ALT(m)  NAME
+# 370:         5.414       51.446      20.30  EINDHOVEN
+# 
+# YYYYMMDD = Datum (YYYY=jaar MM=maand DD=dag); 
+# TN       = Minimum temperatuur (in 0.1 graden Celsius); 
+# TX       = Maximum temperatuur (in 0.1 graden Celsius); 
+# 
+# STN,YYYYMMDD,   TN,   TX
+# 
+  370,20130826,  115,  235
+  370,20130827,  113,  243
+  370,20130828,  101,  244
+  370,20130829,   99,  249
+  370,20130830,   96,  241
+  370,20130831,   81,  227
+  370,20130901,   58,  191
