@@ -1,0 +1,1260 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Title>Doodsoorzaken; niet-natuurlijke dood, diverse kenmerken (inwoners)</Title>
+  <Author>CBS</Author>
+  <LastAuthor>Ezra Botter</LastAuthor>
+  <Created>2013-10-04T16:08:20Z</Created>
+  <Company>CBS</Company>
+  <Version>12.0</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>19960</WindowHeight>
+  <WindowWidth>25600</WindowWidth>
+  <WindowTopX>-80</WindowTopX>
+  <WindowTopY>-740</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:Size="8.0"/>
+  </Style>
+  <Style ss:ID="s21" ss:Name="Header">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:Size="8.0" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s23" ss:Name="Hyperlink">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:Size="8.0" ss:Color="#0000D4" ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s22" ss:Name="Title">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:Bold="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Data">
+  <Table ss:ExpandedColumnCount="12" ss:ExpandedRowCount="99" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="55.0" ss:DefaultRowHeight="10.0">
+   <Column ss:Width="163.0"/>
+   <Column ss:Width="33.0"/>
+   <Column ss:Width="83.0"/>
+   <Column ss:Width="78.0"/>
+   <Column ss:Width="56.0" ss:Span="6"/>
+   <Column ss:Index="12" ss:Width="67.0"/>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Moordwijze</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Jaartal</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Totaal alle leeftijden</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Jonger dan 15 jaar</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">15 tot 20 jaar</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">20 tot 30 jaar</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">30 tot 40 jaar</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">40 tot 50 jaar</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">50 tot 60 jaar</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">60 tot 70 jaar</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">70 tot 80 jaar</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">80 jaar of ouder</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Ophangen, verwurgen, verstikken</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2008</Data></Cell>
+    <Cell><Data ss:Type="Number">11.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Ophangen, verwurgen, verstikken</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2009</Data></Cell>
+    <Cell><Data ss:Type="Number">14.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">4.0</Data></Cell>
+    <Cell><Data ss:Type="Number">4.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Ophangen, verwurgen, verstikken</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2010</Data></Cell>
+    <Cell><Data ss:Type="Number">12.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Ophangen, verwurgen, verstikken</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2011</Data></Cell>
+    <Cell><Data ss:Type="Number">12.0</Data></Cell>
+    <Cell><Data ss:Type="Number">4.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">4.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Doodslaan, schoppen</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2008</Data></Cell>
+    <Cell><Data ss:Type="Number">14.0</Data></Cell>
+    <Cell><Data ss:Type="Number">5.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Doodslaan, schoppen</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2009</Data></Cell>
+    <Cell><Data ss:Type="Number">18.0</Data></Cell>
+    <Cell><Data ss:Type="Number">4.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">4.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Doodslaan, schoppen</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2010</Data></Cell>
+    <Cell><Data ss:Type="Number">17.0</Data></Cell>
+    <Cell><Data ss:Type="Number">5.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Doodslaan, schoppen</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2011</Data></Cell>
+    <Cell><Data ss:Type="Number">18.0</Data></Cell>
+    <Cell><Data ss:Type="Number">5.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">6.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Vuurwapen</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2008</Data></Cell>
+    <Cell><Data ss:Type="Number">37.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">9.0</Data></Cell>
+    <Cell><Data ss:Type="Number">11.0</Data></Cell>
+    <Cell><Data ss:Type="Number">11.0</Data></Cell>
+    <Cell><Data ss:Type="Number">5.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Vuurwapen</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2009</Data></Cell>
+    <Cell><Data ss:Type="Number">41.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">11.0</Data></Cell>
+    <Cell><Data ss:Type="Number">14.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">6.0</Data></Cell>
+    <Cell><Data ss:Type="Number">4.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Vuurwapen</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2010</Data></Cell>
+    <Cell><Data ss:Type="Number">33.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">6.0</Data></Cell>
+    <Cell><Data ss:Type="Number">8.0</Data></Cell>
+    <Cell><Data ss:Type="Number">6.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Vuurwapen</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2011</Data></Cell>
+    <Cell><Data ss:Type="Number">49.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">17.0</Data></Cell>
+    <Cell><Data ss:Type="Number">8.0</Data></Cell>
+    <Cell><Data ss:Type="Number">11.0</Data></Cell>
+    <Cell><Data ss:Type="Number">5.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Steekwapen</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2008</Data></Cell>
+    <Cell><Data ss:Type="Number">57.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">16.0</Data></Cell>
+    <Cell><Data ss:Type="Number">16.0</Data></Cell>
+    <Cell><Data ss:Type="Number">11.0</Data></Cell>
+    <Cell><Data ss:Type="Number">9.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Steekwapen</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2009</Data></Cell>
+    <Cell><Data ss:Type="Number">53.0</Data></Cell>
+    <Cell><Data ss:Type="Number">4.0</Data></Cell>
+    <Cell><Data ss:Type="Number">5.0</Data></Cell>
+    <Cell><Data ss:Type="Number">5.0</Data></Cell>
+    <Cell><Data ss:Type="Number">14.0</Data></Cell>
+    <Cell><Data ss:Type="Number">10.0</Data></Cell>
+    <Cell><Data ss:Type="Number">10.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Steekwapen</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2010</Data></Cell>
+    <Cell><Data ss:Type="Number">61.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">11.0</Data></Cell>
+    <Cell><Data ss:Type="Number">15.0</Data></Cell>
+    <Cell><Data ss:Type="Number">12.0</Data></Cell>
+    <Cell><Data ss:Type="Number">6.0</Data></Cell>
+    <Cell><Data ss:Type="Number">8.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Steekwapen</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2011</Data></Cell>
+    <Cell><Data ss:Type="Number">43.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">11.0</Data></Cell>
+    <Cell><Data ss:Type="Number">7.0</Data></Cell>
+    <Cell><Data ss:Type="Number">9.0</Data></Cell>
+    <Cell><Data ss:Type="Number">12.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Slagwapen</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2008</Data></Cell>
+    <Cell><Data ss:Type="Number">12.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">4.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Slagwapen</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2009</Data></Cell>
+    <Cell><Data ss:Type="Number">7.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Slagwapen</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2010</Data></Cell>
+    <Cell><Data ss:Type="Number">10.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Slagwapen</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2011</Data></Cell>
+    <Cell><Data ss:Type="Number">12.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">4.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Overige wijze van moord en doodslag</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2008</Data></Cell>
+    <Cell><Data ss:Type="Number">12.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Overige wijze van moord en doodslag</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2009</Data></Cell>
+    <Cell><Data ss:Type="Number">14.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">4.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Overige wijze van moord en doodslag</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2010</Data></Cell>
+    <Cell><Data ss:Type="Number">8.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Overige wijze van moord en doodslag</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2011</Data></Cell>
+    <Cell><Data ss:Type="Number">5.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Onbekende wijze van moord en doodslag</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2008</Data></Cell>
+    <Cell><Data ss:Type="Number">7.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Onbekende wijze van moord en doodslag</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2009</Data></Cell>
+    <Cell><Data ss:Type="Number">7.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Onbekende wijze van moord en doodslag</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2010</Data></Cell>
+    <Cell><Data ss:Type="Number">3.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Onbekende wijze van moord en doodslag</Data></Cell>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">2011</Data></Cell>
+    <Cell><Data ss:Type="Number">4.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0"/>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0" ss:Span="15"/>
+   <Row ss:Index="56" ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>0</PaperSizeIndex>
+    <HorizontalResolution>-4</HorizontalResolution>
+    <VerticalResolution>-4</VerticalResolution>
+   </Print>
+   <Zoom>125</Zoom>
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>30</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Omschrijving">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="132" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="55.0" ss:DefaultRowHeight="10.0">
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Doodsoorzaken; niet-natuurlijke dood, diverse kenmerken (inwoners)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">INHOUDSOPGAVE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">1. Toelichting</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">2. Definities en verklaring van symbolen</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">3. Koppelingen naar relevante tabellen en artikelen</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">4. Bronnen en methoden</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">5. Meer informatie</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">1. TOELICHTING</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Deze tabel bevat cijfers over de niet-natuurlijke doodsoorzaken van inwoners van Nederland. De cijfers zijn uitgesplitst naar zelfmoord, moord en doodslag, verkeersdoden, dodelijke bedrijfs- en privéongevallen en overige of onbekende gevallen per leeftijd en geslacht.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Gegevens beschikbaar vanaf: 1996.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Status van de cijfers:</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Het betreft definitieve cijfers.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Wijzigingen per 21 augustus 2012:</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">De cijfers over 2011 zijn toegevoegd.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Wanneer komen er nieuwe cijfers?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">In juli / augustus worden de definitieve cijfers over het voorafgaande jaar in deze publicatie opgenomen. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">2. DEFINITIES EN VERKLARING VAN SYMBOLEN</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Leeftijd</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Leeftijd op het moment van overlijden.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Niet-natuurlijke dood </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Ieder overlijden dat het gevolg is van een ongeval, vergiftiging of geweld. Euthanasie is hierbij buiten beschouwing gelaten.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Zelfdoding</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Het slachtoffer heeft ZELF een handeling verricht met als uitdrukkelijk doel zichzelf het leven te benemen. Gevallen van euthanasie en pogingen tot zelfdoding zijn niet in de cijfers opgenomen.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Moord/doodslag</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Moord: iemand van het leven beroven, opzettelijk en met voorbedachten rade.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Doodslag: iemand van het leven beroven, opzettelijk niet met voorbedachten rade.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Verkeersdode</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">De weggebruiker die is overleden ten gevolge van een plotseling optredende gebeurtenis op de openbare weg, verband houdend met het verkeer, waarbij ten minste één rijdend voertuig was betrokken.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Een overledene wordt niet als verkeersdode geteld indien:</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">- het ongeval zich voordoet op een plaats die niet opengesteld is voor openbaar rij- en ander verkeer;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">- het ongeval zich voordoet op een gedeelte van een trein- of trambaan die geen deel uitmaakt van de openbare weg en door haar aard uitsluitend gebruikt kan worden door een trein of een tram;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">- het slachtoffer 30 dagen of meer na het ongeval overlijdt;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">- de overledene reeds als slachtoffer van 'moord' of van 'zelfdoding' is geteld.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Verkeersongeval</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Een ongeval op de openbare weg die verband houdt met het verkeer, waarbij ten minste één rijdend voertuig was betrokken.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Dodelijk bedrijfsongeval</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Een dodelijk ongeval door of tijdens het uitoefenen van betaalde arbeid (in loondienst of zelfstandig). Een overledene wordt niet als slachtoffer van een bedrijfsongeval geteld indien de overledene reeds als slachtoffer van 'moord', 'zelfdoding' of een 'verkeersongeval' is geteld. M.a.w. ongevallen tijdens woon-werkverkeer tellen niet mee.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Dodelijk privéongeval</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Overleden ten gevolge van een ongeval in of om een woning en in openbare gebouwen (school, winkels e.d.), ongevallen in recreatieve sfeer (park, strand e.d.) sportongevallen en ongevallen op openbare weg voor zover geen verkeersongeval.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Overig/onbekend</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Het betreft hier overledenen:</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">- tengevolge van ongevallen anders dan wegverkeersongevallen, bedrijfsongevallen of privé-ongevallen of</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">- van wie de doodsoorzaak niet duidelijk is in te delen onder zelfdoding, moord/doodslag of wegverkeersongevallen, bedrijfsongevallen of privé-ongevallen of</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">- waarvan de oorzaak van het niet-natuurlijk overlijden onbekend is of </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">- waarvan het overlijden 30 dagen of meer na het ongeval plaats gevonden heeft.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">De laatste jaren wordt meer aandacht geschonken aan de zogenaamde 30-dagengrens. Indien iemand bijvoorbeeld door een valpartij gewond raakt en binnen 30 dagen aan de gevolgen hiervan overlijdt, wordt dit overlijden gezien als een privéongeval. Indien het overlijden na 30 dagen of meer plaatsvindt, wordt het gezien als een overig ongeval. De categorie &quot;Overige en onbekende ongevallen&quot; is hierdoor vanaf 2004 flink gestegen. Deze wijziging is vooral bij de 80-plussers te zien.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Ingezetene</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Personen die in de Gemeentelijke Basisadministratie Persoonsgegevens (GBA) zijn opgenomen. In principe wordt iedereen die gedurende ten minste vier maanden rechtmatig in Nederland verblijft, opgenomen in de basisadministratie van de gemeente waar hij of zij woont (woongemeente).</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Gemiddelde bevolking</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">De helft van een bevolking aan het begin van een bepaalde periode plus de helft van die bevolking aan het eind van de periode. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">In deze tabel wordt de gemiddelde bevolking per leeftijd op de laatste verjaardag berekend:</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">De helft van de personen van een bepaalde leeftijd aan het begin van een periode plus de helft van de personen van gelijke leeftijd aan het einde van de periode. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Verklaring van symbolen:</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">niets (blank)   : een cijfer kan op logische gronden niet voorkomen</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">.               : gegevens ontbreken</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">x               : geheim</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">-               : nihil </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">0 (0,0)         : het cijfer is kleiner dan de helft van de gekozen eenheid</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">*               : voorlopige cijfers</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">**              : nader voorlopige cijfers</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Cijfers over verkeersdoden naar wijze van deelname zijn te vinden in tabel </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Doodsoorzaken; verkeersdoden, deelname</Data></Cell>
+    <Cell><Data ss:Type="String">.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Cijfers over verkeersdoden naar provincie van ongeval zijn te vinden in tabel </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Doodsoorzaken; verkeersdoden, provincie</Data></Cell>
+    <Cell><Data ss:Type="String">.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Cijfers over zelfdoding zijn te vinden in tabel </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Doodsoorzaken; zelfdoding</Data></Cell>
+    <Cell><Data ss:Type="String">.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Cijfers over overledenen naar belangrijke doodsoorzaken, leeftijd en geslacht zijn te vinden in tabel </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Doodsoorzaken; korte lijst</Data></Cell>
+    <Cell><Data ss:Type="String">.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Cijfers over overledenen naar de uitgebreide doodsoorzakenlijst, leeftijd en geslacht zijn te vinden in tabel </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Doodsoorzaken; uitgebreide lijst</Data></Cell>
+    <Cell><Data ss:Type="String">.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">4. BRONNEN EN METHODEN</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Gebruikte databron(nen) (buiten het CBS): </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">- Gemeentelijke Basisadministratie Persoonsgegevens (GBA);</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">- overlijdensverklaring arts;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">- dossier Officier van Justitie;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">- verkeersongevallenregistratie Ministerie van Verkeer en Waterstaat;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">- bedrijfsongevallenregistratie Arbeidsinspectie van Ministerie van </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Sociale Zaken en Werkgelegenheid.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">De beschrijving van de statistiek Niet-natuurlijke doden is te vinden in de </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Korte onderzoeksbeschrijving NND</Data></Cell>
+    <Cell><Data ss:Type="String">.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">De beschrijving van de statistiek Verkeersdoden is te vinden in de </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Korte onderzoeksbeschrijving verkeersdoden</Data></Cell>
+    <Cell><Data ss:Type="String">.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">De beschrijving van de Doodsoorzakenstatistiek is te vinden in de </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">Korte onderzoeksbeschrijving doodsoorzakenstatistiek</Data></Cell>
+    <Cell><Data ss:Type="String">.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">5. MEER INFORMATIE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Infoservice: </Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="String">http://www.cbs.nl/infoservice</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Copyright © Centraal Bureau voor de Statistiek</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Verveelvoudiging is toegestaan, mits het CBS als bron wordt vermeld.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Niet-natuurlijke dood</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Ieder overlijden dat het gevolg is van een ongeval, vergiftiging of geweld.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Euthanasie is hierbij buiten beschouwing gelaten.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Per 100 000 mannen/vrouwen</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Per 100 000 van de gemiddelde bevolking in de overeenkomstige bevolkingsgroep van dat jaar.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Moord en doodslag</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Moord: iemand van het leven beroven, opzettelijk en met voorbedachten rade.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.0">
+    <Cell><Data ss:Type="String">Doodslag: iemand van het leven beroven, opzettelijk niet met voorbedachten rade.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

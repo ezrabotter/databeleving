@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+	<link rel="stylesheet" href="assets/css/normalize.css">
+	<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
+	<link rel="stylesheet" href="assets/css/custom.css">
+
+	<!--<script src="assets/js/vendor/modernizr-2.6.2.min.js"></script>-->
+	<script src="assets/js/vendor/jquery-1.9.0.min.js"></script>
+	<!--<script src="assets/js/vendor/jquery-1.10.2.min.js"></script>-->
+	<script src="assets/js/vendor/jquery-ui-1.10.0.min.js"></script>
+	<!--<script src="assets/js/vendor/d3.min.js"></script>-->
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+
+</head>
+<body>
+<!--[if lt IE 7]>
+<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+
+<!-- Add your site or application content here -->
+<div id="infographic" class="infographicB">
+
+	<h1>Totaal aantal conversies <span style="color: #f1f072;">A</span> vs. <span style="color: #008612;">B</span>.</h1>
+	<div class="chart line" id="chartA"></div>
+
+	<div class="legendGroup">
+		<div class="legend yellow" id="conversies">Conversies A</div>
+		<div class="legend green" id="average">Conversies B</div>
+	</div>
+
+	<hr/>
+
+	<section class="pies">
+
+		<div class="pie">
+			<h2>Mobiel</h2>
+			<div class="chart" id="pieA"></div>
+
+			<div class="legendGroup">
+				<div class="legend yellow">Conversies Mobiel A</div>
+				<div class="legend green">Conversies Mobiel B</div>
+			</div>
+		</div>
+
+		<div class="pie">
+			<h2>Tablet</h2>
+			<div class="chart" id="pieB"></div>
+
+			<div class="legendGroup">
+				<div class="legend yellow">Conversies Tablet A</div>
+				<div class="legend green">Conversies Tablet B</div>
+			</div>
+		</div>
+
+		<div class="pie">
+			<h2>Desktop</h2>
+			<div class="chart" id="pieC"></div>
+
+			<div class="legendGroup">
+				<div class="legend yellow">Conversies Desktop A</div>
+				<div class="legend green">Conversies Desktop B</div>
+			</div>
+		</div>
+
+	</section>
+
+
+</div>
+<script src="assets/js/functions.js"></script>
+<script src="assets/js/app/chart.class.js"></script>
+<script src="assets/js/mainB.js"></script>
+
+</body>
+</html>

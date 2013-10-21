@@ -1,0 +1,5358 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<Workbook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:z="#RowsetSchema" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:s="uuid:BDC6E3F0-6DA3-11d1-A2A3-00AA00C14882">
+  <o:DocumentProperties>
+    <o:Title>Doodsoorzaken; niet-natuurlijke dood, diverse kenmerken (inwoners)</o:Title>
+    <o:Subject />
+    <o:Author>CBS</o:Author>
+    <o:Keywords />
+    <o:Company>CBS</o:Company>
+  </o:DocumentProperties>
+  <Styles>
+    <Style ss:ID="Default" ss:Name="Normal">
+      <Font ss:Size="8" ss:FontName="Arial" ss:Bold="0" />
+      <Alignment ss:Vertical="Bottom" />
+    </Style>
+    <Style ss:ID="sHead" ss:Name="Header" ss:Parent="Default">
+      <Font ss:Size="8" ss:FontName="Arial" ss:Bold="1" />
+      <Alignment ss:Vertical="Bottom" />
+    </Style>
+    <Style ss:ID="sTitle" ss:Name="Title">
+      <Font ss:Size="10" ss:FontName="Arial" ss:Bold="1" />
+      <Alignment ss:Vertical="Bottom" />
+    </Style>
+    <Style ss:ID="sHyperlink" ss:Name="Hyperlink">
+      <Font ss:Size="8" ss:FontName="Arial" ss:Bold="0" ss:Color="#0000FF" ss:Underline="Single" />
+      <Alignment ss:Vertical="Bottom" />
+    </Style>
+  </Styles>
+  <Worksheet ss:Name="Data">
+    <Table>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sTitle">
+          <Data ss:Type="String">Doodsoorzaken; niet-natuurlijke dood, diverse kenmerken (inwoners)</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String" />
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Geslacht</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal mannen en vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal mannen en vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal mannen en vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal mannen en vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal mannen en vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal mannen en vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal mannen en vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal mannen en vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal mannen en vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal mannen en vrouwen</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Onderwerpen_1</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Onderwerpen_2</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Onderwerpen_3</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Perioden</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Leeftijd</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal alle leeftijden</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Jonger dan 15 jaar</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">15 tot 20 jaar</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">20 tot 30 jaar</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">30 tot 40 jaar</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">40 tot 50 jaar</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">50 tot 60 jaar</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">60 tot 70 jaar</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">70 tot 80 jaar</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">80 jaar of ouder</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Niet-natuurlijke dood</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal niet-natuurlijke dood</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal niet-natuurlijke dood</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">5415</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">88</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">109</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">343</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">445</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">589</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">597</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">491</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">689</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">2064</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Niet-natuurlijke dood</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal niet-natuurlijke dood</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal niet-natuurlijke dood</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">5618</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">96</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">136</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">348</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">396</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">604</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">641</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">524</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">687</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">2186</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Niet-natuurlijke dood</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal niet-natuurlijke dood</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal niet-natuurlijke dood</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">5748</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">83</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">117</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">335</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">369</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">627</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">646</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">580</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">665</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">2326</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Niet-natuurlijke dood</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal niet-natuurlijke dood</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal niet-natuurlijke dood</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">5844</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">67</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">104</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">379</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">379</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">617</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">621</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">562</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">726</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">2389</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Niet-natuurlijke dood</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Per 100 000 mannen/vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Per 100 000 mannen/vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">per 100 000 van gem. bev.</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">32.9</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">3.0</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">10.8</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">17.3</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">19.6</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">23.0</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">26.7</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">28.0</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">63.6</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">331.1</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Niet-natuurlijke dood</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Per 100 000 mannen/vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Per 100 000 mannen/vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">per 100 000 van gem. bev.</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">34.0</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">3.3</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">13.4</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">17.4</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">17.9</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">23.4</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">28.5</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">28.8</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">62.2</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">341.8</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Niet-natuurlijke dood</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Per 100 000 mannen/vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Per 100 000 mannen/vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">per 100 000 van gem. bev.</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">34.6</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">2.9</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">11.6</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">16.5</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">17.1</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">24.2</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">28.4</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">31.0</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">59.1</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">353.6</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Niet-natuurlijke dood</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Per 100 000 mannen/vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Per 100 000 mannen/vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">per 100 000 van gem. bev.</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">35.0</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">2.3</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">10.4</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">18.5</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">18.0</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">23.8</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">27.0</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">29.3</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">63.3</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">353.0</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">150</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">13</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">30</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">34</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">30</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">23</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">11</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">154</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">15</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">8</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">22</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">33</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">24</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">30</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">13</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">144</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">16</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">7</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">22</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">30</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">25</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">17</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">18</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">6</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Totaal moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">143</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">6</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">30</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">20</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">31</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">23</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">15</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Per 100 000 mannen/vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Per 100 000 mannen/vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">per 100 000 van gem. bev.</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">0.9</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">0.4</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">0.2</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">1.5</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1.5</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">1.2</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">1.0</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">0.6</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">0.3</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">0.6</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Per 100 000 mannen/vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Per 100 000 mannen/vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">per 100 000 van gem. bev.</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">0.9</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">0.5</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">0.8</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">1.1</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1.5</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">0.9</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">1.3</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">0.7</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">0.4</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">0.8</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Per 100 000 mannen/vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Per 100 000 mannen/vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">per 100 000 van gem. bev.</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">0.9</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">0.5</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">0.7</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">1.1</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1.4</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">1.0</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">0.7</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1.0</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">0.5</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">0.5</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Per 100 000 mannen/vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Per 100 000 mannen/vrouwen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">per 100 000 van gem. bev.</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">0.9</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">0.4</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">0.6</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">1.5</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1.0</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">1.2</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">1.0</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">0.8</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">0.1</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">0.7</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Ophangen, verwurgen, verstikken</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">11</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Ophangen, verwurgen, verstikken</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">14</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Ophangen, verwurgen, verstikken</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Ophangen, verwurgen, verstikken</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Doodslaan, schoppen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">14</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Doodslaan, schoppen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">18</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Doodslaan, schoppen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">17</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Doodslaan, schoppen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">18</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">6</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Vuurwapen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">37</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">9</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">11</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">11</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Vuurwapen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">41</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">11</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">14</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">6</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Vuurwapen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">33</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">6</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">8</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">6</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Vuurwapen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">49</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">17</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">8</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">11</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Steekwapen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">57</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">16</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">16</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">11</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">9</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Steekwapen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">53</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">14</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">10</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">10</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Steekwapen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">61</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">11</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">15</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">6</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">8</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Steekwapen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">43</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">11</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">7</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">9</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Slagwapen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Slagwapen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">7</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Slagwapen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">10</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Slagwapen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Overige wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Overige wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">14</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Overige wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">8</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Overige wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Onbekende wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">7</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Onbekende wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">7</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Onbekende wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Onbekende wijze van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Overval, beroving</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Overval, beroving</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">6</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Overval, beroving</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">10</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Overval, beroving</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Huiselijke omstandigheden</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Huiselijke omstandigheden</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">15</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">7</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Huiselijke omstandigheden</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">17</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">6</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Huiselijke omstandigheden</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">13</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Ruzie, geen huiselijke omstandigheden</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">15</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Ruzie, geen huiselijke omstandigheden</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">20</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">7</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Ruzie, geen huiselijke omstandigheden</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">19</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Ruzie, geen huiselijke omstandigheden</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">13</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Criminelen onderling</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">7</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Criminelen onderling</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">13</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Criminelen onderling</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">8</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Criminelen onderling</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">17</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">6</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Geen motief</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Geen motief</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">9</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Geen motief</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Geen motief</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Overig motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">13</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Overig motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">15</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">6</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Overig motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">6</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Overig motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">14</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">8</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Onbekend motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">98</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">9</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">22</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">19</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">20</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">13</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">9</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Onbekend motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">76</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">8</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">11</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">13</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">8</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">19</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">8</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Onbekend motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">80</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">11</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">17</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">14</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">8</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Onbekend motief van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">81</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">9</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">9</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">14</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">20</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">13</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Woning van het slachtoffer</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">69</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">11</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">8</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">13</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">10</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">14</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">9</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Woning van het slachtoffer</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">69</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">10</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">6</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">13</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">16</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Woning van het slachtoffer</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">83</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">15</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">6</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">18</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">14</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">15</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">6</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Woning van het slachtoffer</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">74</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">8</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">13</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">8</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">14</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">15</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">11</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Woning van anderen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">16</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">6</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Woning van anderen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">24</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Woning van anderen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">10</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Woning van anderen</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">14</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">6</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Horecagelegenheid</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">6</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Horecagelegenheid</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">10</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Horecagelegenheid</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">7</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Horecagelegenheid</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">19</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Openbare weg</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">43</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">15</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">14</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">8</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Openbare weg</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">35</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">9</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">8</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">9</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Openbare weg</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">32</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">10</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">6</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">5</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">7</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Openbare weg</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">24</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Overige pleeglocatie van moord</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">10</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">4</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Overige pleeglocatie van moord</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">13</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Overige pleeglocatie van moord</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">9</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Overige pleeglocatie van moord</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">12</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Onbekende pleeglocatie van moord</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2008</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">6</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Onbekende pleeglocatie van moord</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2009</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Onbekende pleeglocatie van moord</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2010</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="Number">3</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="Number">2</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="Number">1</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Pleeglocatie van moord en doodslag</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Onbekende pleeglocatie van moord</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">2011</Data>
+        </Cell>
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">aantal</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="10">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="11">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="12">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="13">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="14">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+        <Cell ss:Index="15">
+          <Data ss:Type="String">-</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+  <Worksheet ss:Name="Omschrijving">
+    <Table>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sTitle">
+          <Data ss:Type="String">Doodsoorzaken; niet-natuurlijke dood, diverse kenmerken (inwoners)</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">INHOUDSOPGAVE</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">1. Toelichting</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">2. Definities en verklaring van symbolen</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">3. Koppelingen naar relevante tabellen en artikelen</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">4. Bronnen en methoden</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">5. Meer informatie</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">1. TOELICHTING</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Deze tabel bevat cijfers over de niet-natuurlijke doodsoorzaken van inwoners van Nederland. De cijfers zijn uitgesplitst naar zelfmoord, moord en doodslag, verkeersdoden, dodelijke bedrijfs- en privéongevallen en overige of onbekende gevallen per leeftijd en geslacht.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Gegevens beschikbaar vanaf: 1996.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Status van de cijfers:</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Het betreft definitieve cijfers.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Wijzigingen per 21 augustus 2012:</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">De cijfers over 2011 zijn toegevoegd.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Wanneer komen er nieuwe cijfers?</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">In juli / augustus worden de definitieve cijfers over het voorafgaande jaar in deze publicatie opgenomen. </Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">2. DEFINITIES EN VERKLARING VAN SYMBOLEN</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Leeftijd</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Leeftijd op het moment van overlijden.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Niet-natuurlijke dood </Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Ieder overlijden dat het gevolg is van een ongeval, vergiftiging of geweld. Euthanasie is hierbij buiten beschouwing gelaten.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Zelfdoding</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Het slachtoffer heeft ZELF een handeling verricht met als uitdrukkelijk doel zichzelf het leven te benemen. Gevallen van euthanasie en pogingen tot zelfdoding zijn niet in de cijfers opgenomen.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Moord/doodslag</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Moord: iemand van het leven beroven, opzettelijk en met voorbedachten rade.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Doodslag: iemand van het leven beroven, opzettelijk niet met voorbedachten rade.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Verkeersdode</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">De weggebruiker die is overleden ten gevolge van een plotseling optredende gebeurtenis op de openbare weg, verband houdend met het verkeer, waarbij ten minste één rijdend voertuig was betrokken.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Een overledene wordt niet als verkeersdode geteld indien:</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">- het ongeval zich voordoet op een plaats die niet opengesteld is voor openbaar rij- en ander verkeer;</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">- het ongeval zich voordoet op een gedeelte van een trein- of trambaan die geen deel uitmaakt van de openbare weg en door haar aard uitsluitend gebruikt kan worden door een trein of een tram;</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">- het slachtoffer 30 dagen of meer na het ongeval overlijdt;</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">- de overledene reeds als slachtoffer van 'moord' of van 'zelfdoding' is geteld.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Verkeersongeval</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Een ongeval op de openbare weg die verband houdt met het verkeer, waarbij ten minste één rijdend voertuig was betrokken.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Dodelijk bedrijfsongeval</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Een dodelijk ongeval door of tijdens het uitoefenen van betaalde arbeid (in loondienst of zelfstandig). Een overledene wordt niet als slachtoffer van een bedrijfsongeval geteld indien de overledene reeds als slachtoffer van 'moord', 'zelfdoding' of een 'verkeersongeval' is geteld. M.a.w. ongevallen tijdens woon-werkverkeer tellen niet mee.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Dodelijk privéongeval</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Overleden ten gevolge van een ongeval in of om een woning en in openbare gebouwen (school, winkels e.d.), ongevallen in recreatieve sfeer (park, strand e.d.) sportongevallen en ongevallen op openbare weg voor zover geen verkeersongeval.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Overig/onbekend</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Het betreft hier overledenen:</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">- tengevolge van ongevallen anders dan wegverkeersongevallen, bedrijfsongevallen of privé-ongevallen of</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">- van wie de doodsoorzaak niet duidelijk is in te delen onder zelfdoding, moord/doodslag of wegverkeersongevallen, bedrijfsongevallen of privé-ongevallen of</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">- waarvan de oorzaak van het niet-natuurlijk overlijden onbekend is of </Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">- waarvan het overlijden 30 dagen of meer na het ongeval plaats gevonden heeft.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">De laatste jaren wordt meer aandacht geschonken aan de zogenaamde 30-dagengrens. Indien iemand bijvoorbeeld door een valpartij gewond raakt en binnen 30 dagen aan de gevolgen hiervan overlijdt, wordt dit overlijden gezien als een privéongeval. Indien het overlijden na 30 dagen of meer plaatsvindt, wordt het gezien als een overig ongeval. De categorie "Overige en onbekende ongevallen" is hierdoor vanaf 2004 flink gestegen. Deze wijziging is vooral bij de 80-plussers te zien.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Ingezetene</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Personen die in de Gemeentelijke Basisadministratie Persoonsgegevens (GBA) zijn opgenomen. In principe wordt iedereen die gedurende ten minste vier maanden rechtmatig in Nederland verblijft, opgenomen in de basisadministratie van de gemeente waar hij of zij woont (woongemeente).</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Gemiddelde bevolking</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">De helft van een bevolking aan het begin van een bepaalde periode plus de helft van die bevolking aan het eind van de periode. </Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">In deze tabel wordt de gemiddelde bevolking per leeftijd op de laatste verjaardag berekend:</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">De helft van de personen van een bepaalde leeftijd aan het begin van een periode plus de helft van de personen van gelijke leeftijd aan het einde van de periode. </Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Verklaring van symbolen:</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">niets (blank)   : een cijfer kan op logische gronden niet voorkomen</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">.               : gegevens ontbreken</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">x               : geheim</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">-               : nihil </Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">0 (0,0)         : het cijfer is kleiner dan de helft van de gekozen eenheid</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">*               : voorlopige cijfers</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">**              : nader voorlopige cijfers</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Cijfers over verkeersdoden naar wijze van deelname zijn te vinden in tabel </Data>
+        </Cell>
+        <Cell ss:StyleID="sHyperlink" ss:Href="http://statline.cbs.nl/StatWeb/publication/?VW=T&amp;DM=slnl&amp;PA=71936ned">
+          <Data ss:Type="String">Doodsoorzaken; verkeersdoden, deelname</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Cijfers over verkeersdoden naar provincie van ongeval zijn te vinden in tabel </Data>
+        </Cell>
+        <Cell ss:StyleID="sHyperlink" ss:Href="http://statline.cbs.nl/StatWeb/publication/?VW=T&amp;DM=slnl&amp;PA=71426ned">
+          <Data ss:Type="String">Doodsoorzaken; verkeersdoden, provincie</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Cijfers over zelfdoding zijn te vinden in tabel </Data>
+        </Cell>
+        <Cell ss:StyleID="sHyperlink" ss:Href="http://statline.cbs.nl/StatWeb/publication/?VW=T&amp;DM=SLNL&amp;PA=7022GZA">
+          <Data ss:Type="String">Doodsoorzaken; zelfdoding</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Cijfers over overledenen naar belangrijke doodsoorzaken, leeftijd en geslacht zijn te vinden in tabel </Data>
+        </Cell>
+        <Cell ss:StyleID="sHyperlink" ss:Href="http://statline.cbs.nl/StatWeb/table.asp?LA=nl&amp;DM=SLNL&amp;PA=7052%5F95&amp;">
+          <Data ss:Type="String">Doodsoorzaken; korte lijst</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Cijfers over overledenen naar de uitgebreide doodsoorzakenlijst, leeftijd en geslacht zijn te vinden in tabel </Data>
+        </Cell>
+        <Cell ss:StyleID="sHyperlink" ss:Href="http://statline.cbs.nl/StatWeb/table.asp?LA=nl&amp;DM=SLNL&amp;PA=7233">
+          <Data ss:Type="String">Doodsoorzaken; uitgebreide lijst</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">4. BRONNEN EN METHODEN</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Gebruikte databron(nen) (buiten het CBS): </Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">- Gemeentelijke Basisadministratie Persoonsgegevens (GBA);</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">- overlijdensverklaring arts;</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">- dossier Officier van Justitie;</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">- verkeersongevallenregistratie Ministerie van Verkeer en Waterstaat;</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">- bedrijfsongevallenregistratie Arbeidsinspectie van Ministerie van </Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Sociale Zaken en Werkgelegenheid.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">De beschrijving van de statistiek Niet-natuurlijke doden is te vinden in de </Data>
+        </Cell>
+        <Cell ss:StyleID="sHyperlink" ss:Href="http://www.cbs.nl/NR/exeres/F1B57AF9-4570-42E6-8D8C-7E2FD3FA9C02?RefererType=Favorite">
+          <Data ss:Type="String">Korte onderzoeksbeschrijving NND</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">De beschrijving van de statistiek Verkeersdoden is te vinden in de </Data>
+        </Cell>
+        <Cell ss:StyleID="sHyperlink" ss:Href="http://www.cbs.nl/NR/exeres/71193AFD-52A5-4CC1-9341-0626B4FB54F2?RefererType=Favorite">
+          <Data ss:Type="String">Korte onderzoeksbeschrijving verkeersdoden</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">De beschrijving van de Doodsoorzakenstatistiek is te vinden in de </Data>
+        </Cell>
+        <Cell ss:StyleID="sHyperlink" ss:Href="http://www.cbs.nl/NR/exeres/598014F8-C54B-487D-B26A-11E2155AE500?RefererType=Favorite">
+          <Data ss:Type="String">Korte onderzoeksbeschrijving doodsoorzakenstatistiek</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">5. MEER INFORMATIE</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Infoservice: </Data>
+        </Cell>
+        <Cell ss:StyleID="sHyperlink" ss:Href="http://www.cbs.nl/infoservice">
+          <Data ss:Type="String">http://www.cbs.nl/infoservice</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Copyright © Centraal Bureau voor de Statistiek</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Verveelvoudiging is toegestaan, mits het CBS als bron wordt vermeld.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Niet-natuurlijke dood</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Ieder overlijden dat het gevolg is van een ongeval, vergiftiging of geweld.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Euthanasie is hierbij buiten beschouwing gelaten.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Per 100 000 mannen/vrouwen</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Per 100 000 van de gemiddelde bevolking in de overeenkomstige bevolkingsgroep van dat jaar.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell ss:StyleID="sHead">
+          <Data ss:Type="String">Moord en doodslag</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Moord: iemand van het leven beroven, opzettelijk en met voorbedachten rade.</Data>
+        </Cell>
+      </Row>
+      <Row ss:AutoFitHeight="0" ss:Height="12">
+        <Cell>
+          <Data ss:Type="String">Doodslag: iemand van het leven beroven, opzettelijk niet met voorbedachten rade.</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+</Workbook>
