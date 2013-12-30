@@ -1,0 +1,63 @@
+@import 'normalize.css';
+@import 'main.css';
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica, arial;
+	font-size: 14px;
+	color: #000;
+	overflow:hidden;
+}
+
+.website {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	color: #000;
+	text-decoration: none;
+}
+
+#map {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+}
+
+#world {
+	margin: 0;
+	padding: 0;
+	fill: #c9e6f9;
+	stroke: #123e90;
+	stroke-width: 1;
+}
+
+.selected {
+	stroke: #000;
+	stroke-width: 1;
+}
+
+#world text {
+	font-size: 40px;
+	font-weight: bold;
+	fill: #000;
+	stroke: #fff;
+	stroke-width: 1;
+}
+
+#axes {
+	stroke: #c4c4c4;
+	stroke-width: 1;
+}
+
+#footer {
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+}
